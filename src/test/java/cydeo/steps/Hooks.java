@@ -8,7 +8,7 @@ import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
-
+//comment
 public class Hooks {
 
     @Before
